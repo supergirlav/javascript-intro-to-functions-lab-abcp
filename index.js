@@ -16,6 +16,7 @@ function sayHiToGrandma(string) {
   }
 }
 
-function logSout(string) {
-  console.log
+function logShout(string) {
+  console.log(string.toUpperCase)
+}
 }
