@@ -15,3 +15,7 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
 }
+
+function logSout(string) {
+  console.log
+}
